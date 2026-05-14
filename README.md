@@ -52,6 +52,7 @@ These skills make those failure modes explicit and give the agent better rails.
 
 - **[tmux](./tmux/SKILL.md)** — Manage dev servers, watchers, logs, and other long-running commands in tmux panes.
 - **[using-git-worktrees](./using-git-worktrees/SKILL.md)** — Create isolated git worktrees for feature work without trampling the current workspace.
+- **[diff-walkthrough](./diff-walkthrough/SKILL.md)** — Produce guided walkthroughs of diffs, PRs, MRs, commit ranges, or staged changes with configurable depth and output format.
 - **[improve-codebase-architecture](./improve-codebase-architecture/SKILL.md)** — Find refactoring opportunities that deepen modules and improve testability and agent navigability.
 - **[index-knowledge](./index-knowledge/SKILL.md)** — Generate hierarchical `AGENTS.md` knowledge files for a codebase.
 
