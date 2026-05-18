@@ -1,6 +1,6 @@
 ---
 name: spec-planner
-description: Dialogue-driven spec development through skeptical questioning and iterative refinement. Triggers: "spec this out", feature planning, architecture decisions, "is this worth it?" questions, RFC/design doc creation, work scoping. Invoke Librarian for unfamiliar tech/frameworks/APIs.
+description: Dialogue-driven spec development through skeptical questioning and iterative refinement. Use when asked to "spec this out", plan features, evaluate architecture decisions, assess "is this worth it?" questions, or create RFC/design docs.
 ---
 
 # Spec Planner

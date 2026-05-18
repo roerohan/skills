@@ -1,6 +1,6 @@
 ---
 name: index-knowledge
-description: Generate hierarchical AGENTS.md knowledge base for a codebase. Creates root + complexity-scored subdirectory documentation.
+description: Generate hierarchical AGENTS.md knowledge base for a codebase. Use when creating root and complexity-scored subdirectory documentation.
 ---
 
 # index-knowledge
